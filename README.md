@@ -1,3 +1,3 @@
 # C.S.E-3rd-year
 
-This is an sample for practice work for my college ....
+This is a github which is only for sample work for my college and to collect all my designs and codes .
