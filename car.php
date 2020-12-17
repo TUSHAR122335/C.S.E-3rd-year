@@ -1,28 +1,26 @@
 <!DOCTYPEhtml>
-<html lang="en">
+<html>
 <head>
 <meta charset="utf-8">
-<title>car design template</title>
-<link rel="stylesheet" type="text/css" href="style.css">
+<title>Car Design</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-	<section class="header"  id="header">
+	<section id="header">
 		<div class="nav-bar">
 			<div class="logo">
-			<a href="#">Audi</a>
-			 </div>
-	 	</div>
-	<div class="menu">
-		<ul>
-			
-			<li><a href="#">cars</a></li>
-			<li><a href="#">History</a></li>
-			<li><a href="#">Technology</a></li>
-			<li><a href="#">production</a></li>
-			<li><a href="#">Reviews</a></li>
-
-			</ul>
-	</div>
+				<font size="20">Audi</font>
+			</div>
+			<div class="menu">
+				<ul align="right">
+					<li><a href="#">Cars</a></li>
+					<li><a href="#">History</a></li>
+					<li><a href="#">Technology</a></li>
+					<li><a href="#">Production</a></li>
+					<li><a href="#">Reviews</a></li>
+				</ul>
+			</div>
+		</div>
 	</section>
 </body>
 </html>
