@@ -1,4 +1,4 @@
-<!-- Index1.html -->
+<!DOCTYPEhtml>
 <html>
 <head>
 	<title>Car Design</title>
@@ -7,7 +7,7 @@
 </head>
 	<body>
 	<div id=header style="background-color:royalblue;width:99%;height:15%;">
-	<img src="AUDI.jpg" align="left" alt="logo" height=105% border=0px>
+	<img src="AUDI.png" align="left" alt="logo" height=105% border=0px>
 			<div class="nav">
 				<center>
 					<span class="MainText" style="text-transform:uppercase;font-size: 35px;">audi</span>
