@@ -1,0 +1,98 @@
+/*style.css*/
+/* Custom Font */
+@font-face{
+	font-family:aBigDeal;
+	src:url('aBigDeal.ttf');
+}
+@font-face{
+	font-family: Eternal-Amsterdam;
+	src:url('Eternal-Amsterdam.ttf');
+}
+*{
+	margin:none;
+	padding: none;
+}
+body{
+	background-color: black;
+}
+#header div{
+	display:inline-block;
+}
+div#header{
+	height:20%;
+	padding: 20px;
+}
+#header .nav{
+	text-transform:uppercase;
+	display: inline-block;
+}
+#header .nav a{
+	color:white;
+	font-family:arial black;
+	text-decoration: none;
+	padding:20px;
+}
+#header .nav a:hover{
+	color:darkgrey;
+	position: relative;
+	text-decoration-color: red;
+	text-decoration-line: overline;
+
+}
+/*Conatiner Image */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+/*Top right text*/
+.top-left {
+	font-size: 30px;
+	font-family: aBigDeal;
+	text-transform: uppercase;
+	position: absolute;
+	top: 8px;
+	left: 16px;
+}
+/*Bottom left text*/
+.bottom-right {
+	font-family: Eternal-Amsterdam;
+	font-size: 60px;
+	position: absolute;
+	bottom: 8px;
+	right: 16px;
+}
+/* Gallery */
+#gallery h3{
+	color:white;
+	text-transform: uppercase;
+	font-family: arial black;
+	font-size: 34px;
+}
+#gallery hr{
+	background-color: red;
+	border:none;
+}
+
+/* About */
+#about{
+	font-family: arial black;
+}
+#about h3{
+	color:white;
+	text-transform: uppercase;
+	font-family: arial black;
+	font-size: 34px;
+}
+#about hr{
+	background-color: red;
+	border:none;
+}
+#about h2{
+	color:white;
+}
+span.about img{
+	color:white;
+	position: relative;
+	float: right;
+}
