@@ -1,4 +1,4 @@
-<!-- Index.html -->
+<!-- Index.php -->
 <!DOCTYPE html>
 <html>
 <head>
